@@ -25,7 +25,7 @@
 
 ###Program Output
 The program outputs the model parameters calculated from both the Gradiant Descent equation and Normal equation. The values calculated from the Gradient Descent are approximately equal to those obtained from Normal Equation.
-<img src="https://github.com/NandanNayak/Linear-Regression-Model-to-predict-the-Price-of-Houses/blob/edits/Output.png" align="center"/>
+<img src="https://github.com/NandanNayak/Linear-Regression-Model-to-predict-the-Price-of-Houses/blob/master/Output.png" align="center"/>
 
 ###Visualization and Conclusion
 <img src="https://github.com/NandanNayak/Linear-Regression-Model-to-predict-the-Price-of-Houses/blob/master/Visualization.png" align="center">
