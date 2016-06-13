@@ -2,7 +2,7 @@
 
 ###Project Description
 
-<p>The aim of the project to predict the price of houses from the given inputs using a Linear reggression model.</p>
+<p>The aim of the project to predict the price of houses from the given inputs using a Linear regression model.</p>
 
 ###Format of data set
 <p>The input file <a href="https://github.com/NandanNayak/Linear-Regression-Model-to-predict-the-Price-of-Houses/blob/master/ex1data2.txt">ex1data2.txt</a> contains a training set of housing prices in Portland, Oregon. The first column is the size of the house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house. </p>
